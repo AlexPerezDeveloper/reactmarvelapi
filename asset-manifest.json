@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactmarvelapi/static/css/main.986397c3.chunk.css",
+    "main.js": "/reactmarvelapi/static/js/main.2401226e.chunk.js",
+    "main.js.map": "/reactmarvelapi/static/js/main.2401226e.chunk.js.map",
+    "runtime-main.js": "/reactmarvelapi/static/js/runtime-main.ead71ff7.js",
+    "runtime-main.js.map": "/reactmarvelapi/static/js/runtime-main.ead71ff7.js.map",
+    "static/js/2.f35fc290.chunk.js": "/reactmarvelapi/static/js/2.f35fc290.chunk.js",
+    "static/js/2.f35fc290.chunk.js.map": "/reactmarvelapi/static/js/2.f35fc290.chunk.js.map",
+    "index.html": "/reactmarvelapi/index.html",
+    "precache-manifest.afcefb1a8c5e31fb980799eb0beaa5f6.js": "/reactmarvelapi/precache-manifest.afcefb1a8c5e31fb980799eb0beaa5f6.js",
+    "service-worker.js": "/reactmarvelapi/service-worker.js",
+    "static/css/main.986397c3.chunk.css.map": "/reactmarvelapi/static/css/main.986397c3.chunk.css.map",
+    "static/media/logo.svg": "/reactmarvelapi/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead71ff7.js",
+    "static/js/2.f35fc290.chunk.js",
+    "static/css/main.986397c3.chunk.css",
+    "static/js/main.2401226e.chunk.js"
+  ]
+}
